@@ -1,0 +1,1 @@
+# Scala Play Seed Project
